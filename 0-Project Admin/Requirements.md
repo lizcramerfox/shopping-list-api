@@ -11,7 +11,7 @@ Be deployed online, where the rest of the world can access it.
 
 ### Version Control
 Demonstrate using version control by:
-1.  [ ]  Sharing your work through a git repository hosted on Github.
+1.  [x]  Sharing your work through a git repository hosted on Github.
 1.  [ ]  Making frequent, cohesive commits dating back to the **first day**
 of the project week.
 1.  [x]  1 commit on the first day of project week on both repos.

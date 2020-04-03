@@ -29,10 +29,10 @@ Client
 
 ### API
 1.  [x] Review [rails-api-one-to-many](https://git.generalassemb.ly/ga-wdi-boston/rails-api-one-to-many) or [rails-api-many-to-many](https://git.generalassemb.ly/ga-wdi-boston/rails-api-many-to-many)
-1.  [ ] Scaffold your resource
-1.  [ ] Test your resource's end points with curl scripts
-1.  [ ] Update resource controller to inherit from Protected or OpenRead controller
-1.  [ ] Test your resource's end points with curl scripts
+1.  [x] Scaffold your resource
+1.  [x] Test your resource's end points with curl scripts
+1.  [x] Update resource controller to inherit from Protected or OpenRead controller
+1.  [x] Test your resource's end points with curl scripts
 1.  [ ] Add the relationship to a User
 1.  [ ] Add User ownership to resource controller
 
