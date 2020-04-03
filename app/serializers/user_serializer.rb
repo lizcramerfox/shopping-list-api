@@ -2,4 +2,5 @@
 
 class UserSerializer < ActiveModel::Serializer
   attributes :id, :email, :lists
+  has_many :lists
 end

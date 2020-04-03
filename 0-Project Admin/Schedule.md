@@ -33,8 +33,8 @@ Client
 1.  [x] Test your resource's end points with curl scripts
 1.  [x] Update resource controller to inherit from Protected or OpenRead controller
 1.  [x] Test your resource's end points with curl scripts
-1.  [ ] Add the relationship to a User
-1.  [ ] Add User ownership to resource controller
+1.  [x] Add the relationship to a User
+1.  [x] Add User ownership to resource controller
 
 ### Client
 1.  [ ] Review [api-token-auth](https://git.generalassemb.ly/ga-wdi-boston/api-token-auth)
