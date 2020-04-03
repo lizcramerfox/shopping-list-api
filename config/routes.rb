@@ -11,5 +11,10 @@ Rails.application.routes.draw do
   post '/sign-in' => 'users#signin'
   delete '/sign-out' => 'users#signout'
   patch '/change-password' => 'users#changepw'
+  get '/lists' => 'lists#index'
+  post '/lists' => 'lists#create'
+  get '/lists/:id' => 'lists#show'
+  patch '/lists/:id' => 'lists#update'
+  delete '/lists/:id' => 'lists#destroy'
 
 end
