@@ -23,12 +23,12 @@ API
 
 Client
 
-1.  [ ] [Download Browser Template](https://git.generalassemb.ly/ga-wdi-boston/browser-template)
-1.  [ ] Create a Github Repository
-1.  [ ] [Deploy to Github Pages](https://git.generalassemb.ly/ga-wdi-boston/gh-pages-deployment-guide)
+1.  [x] [Download Browser Template](https://git.generalassemb.ly/ga-wdi-boston/browser-template)
+1.  [x] Create a Github Repository
+1.  [x] [Deploy to Github Pages](https://git.generalassemb.ly/ga-wdi-boston/gh-pages-deployment-guide)
 
 ### API
-1.  [ ] Review [rails-api-one-to-many](https://git.generalassemb.ly/ga-wdi-boston/rails-api-one-to-many) or [rails-api-many-to-many](https://git.generalassemb.ly/ga-wdi-boston/rails-api-many-to-many)
+1.  [x] Review [rails-api-one-to-many](https://git.generalassemb.ly/ga-wdi-boston/rails-api-one-to-many) or [rails-api-many-to-many](https://git.generalassemb.ly/ga-wdi-boston/rails-api-many-to-many)
 1.  [ ] Scaffold your resource
 1.  [ ] Test your resource's end points with curl scripts
 1.  [ ] Update resource controller to inherit from Protected or OpenRead controller
