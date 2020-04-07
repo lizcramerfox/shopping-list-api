@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class ListsController < ProtectedController
   before_action :set_list, only: [:show, :update, :destroy]
 
@@ -51,5 +53,5 @@ private
   def list_params
     params.require(:list)
           .permit(:id, :title, :list_type, :content)
-    end
   end
+end
