@@ -15,11 +15,11 @@ Demonstrate using version control by:
 1.  [ ]  Making frequent, cohesive commits dating back to the **first day**
 of the project week.
 1.  [x]  1 commit on the first day of project week on both repos.
-1.  [ ]  At least 1 commit every day during project week (not necessarily on both repos).
+1.  [x]  At least 1 commit every day during project week (not necessarily on both repos).
 
 ### Documentation
 Produce documentation in the form of a **README**, which must:
-1.  [ ] Create 2 Github repos (one for your front-end and one for your back-end)
+1.  [x] Create 2 Github repos (one for your front-end and one for your back-end)
 1.  [ ] Pin both repositories on GitHub as a Popular Repository
 1.  [ ] Each repo will need a README.md file with a link to the other repo and an explanation of the what the app does and how it works.
 1.  [ ] Each repo must contain the link to both deployed sites
